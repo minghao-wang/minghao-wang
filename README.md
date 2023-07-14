@@ -1,6 +1,6 @@
 - # 王铭浩
 
-  邮箱：hallwong@163.com
+  邮箱：minghao.wang@thoughtworks.com
 
   电话：18600864720
 
